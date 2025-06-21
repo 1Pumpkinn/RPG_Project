@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RPGProject">
+    <output-path>$USER_HOME$/AppData/Roaming/.feather/player-server/servers/4049a8b2-b1ac-452c-a0e9-c2fbfb6b4481/plugins</output-path>
+    <root id="archive" name="RPGProject.jar">
+      <element id="module-output" name="RPGProject" />
+    </root>
+  </artifact>
+</component>

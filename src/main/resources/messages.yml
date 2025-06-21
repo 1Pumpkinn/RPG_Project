@@ -1,0 +1,12 @@
+quest:
+  assign:
+    block_break: "&eBreak &c{amount} {target}"
+    mob_kill: "&eKill &c{amount} {target}"
+    item_collect: "&eCollect &c{amount} {target}"
+
+  already_active: "&7You already have an active quest: &e{progress}"
+  complete: "&aYou completed your quest!"
+
+villager:
+  new_quest: "&6Villager: &eYour quest is to &c{description}&e."
+  no_quest: "&cThis villager has no quest for you."

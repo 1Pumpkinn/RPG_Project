@@ -1,0 +1,12 @@
+name: RPGProject
+version: 1.0
+main: net.tyrone.rPGProject.RPGProject
+api-version: 1.21
+author: ___Pumpkinn
+commands:
+  chooseclass:
+    description: Choose your RPG class
+    usage: /chooseclass <class>
+  spawnquestvillager:
+    description: Spawns a quest villager at your location
+    usage: /spawnquestvillager
