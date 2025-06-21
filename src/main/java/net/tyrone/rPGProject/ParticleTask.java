@@ -12,7 +12,7 @@ public class ParticleTask implements Runnable {
             for (Villager villager : world.getEntitiesByClass(Villager.class)) {
                 if (!QuestVillagerTag.isQuestVillager(villager)) continue;
                 Location loc = villager.getLocation().add(0, 2, 0);
-                world.spawnParticle(Particle.HAPPY_VILLAGER, loc, 5, 0.5, 0.5, 0.5, 0);
+                world.spawnParticle(Particle.HAPPY_VILLAGER, loc, 20    , 0.5, 0.5, 0.5, 0);
             }
         }
     }
